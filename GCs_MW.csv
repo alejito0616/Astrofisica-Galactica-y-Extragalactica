@@ -1,14 +1,3 @@
-#
-#    ID                (A9)    Cluster identification number [ucd=meta.id;phys.atmol.number]
-#    RAJ2000 ("h:m:s") (A10)   Right Ascension J2000 [ucd=pos.eq.ra;meta.main]
-#    DEJ2000 ("d:m:s") (A9)    Declination J2000 [ucd=pos.eq.dec;meta.main]
-#    GLON (deg)        (F6.2)  Galactic longitude [ucd=pos.galactic.lon]
-#    GLAT (deg)        (F6.2)  Galactic latitude [ucd=pos.galactic.lat]
-#    Rsun (kpc)        (F5.1)  ? Distance from Sun [ucd=pos.distance;pos.heliocentric]
-#    Rgc (kpc)         (F5.1)  ? Distance from Galactic center, assuming R(Sun)=8.0 kpc [ucd=pos.distance;pos.galactocentric]
-#    Vt (mag)          (F5.2)  ? Integrated V magnitude of the cluster [ucd=phot.mag;em.opt]
-#    [Fe/H] (Sun)      (F5.2)  ? Metallicity in log (base 10) scale [ucd=instr.scale]
-#--------- ---------- --------- ------ ------ ----- ----- ----- -----
 #                                                               [F   
 #          RAJ2000    DEJ2000   GLON   GLAT   Rsun  Rgc   Vt    e/H] 
 #ID        ("h:m:s")  ("d:m:s") (deg)  (deg)  (kpc) (kpc) (mag) (Sun)
